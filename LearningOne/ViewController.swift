@@ -28,6 +28,9 @@ class ViewController: UIViewController {
         userModel.vc = self
         userModel.callUserAPI()
         
+        
+        
+        print("wefbjhwebfuyewfujwe ewjgfyuewgfjew fyewhfyewgyfgewyf weyf ywegfywegf")
     
     }
     
